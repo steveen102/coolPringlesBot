@@ -1,6 +1,6 @@
 # coolPringlesBot
 
-#DISCLAIMER I AM A BEGINNER CODER
+# DISCLAIMER I AM A BEGINNER CODER
 
 # Requirements
     - Python 
