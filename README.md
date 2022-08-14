@@ -27,11 +27,11 @@
           - cd into this folder
 
     - Download Requirments
-    ```
-    $ pip3 install -r requirements.txt
-    ```
-    
-    ```
-    $ python3 pringles.py
-    ```
+```
+$ pip3 install -r requirements.txt
+```
+
+```
+$ python3 pringles.py
+```
   
