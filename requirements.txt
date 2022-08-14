@@ -1,0 +1,2 @@
+capmonster_python==2.2
+requests==2.28.1
