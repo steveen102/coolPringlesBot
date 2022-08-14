@@ -5,7 +5,7 @@
     - Capmonster API key
     - IpRoyal proxy 
     
-#Proxy setup
+# Proxy setup
     - buy authenticationless rotating proxies or iproyal proxies
     - whitelist your ip on the website
     - copy the proxy 
