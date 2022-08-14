@@ -36,4 +36,11 @@ $ pip3 install -r requirements.txt
 ```
 $ python3 pringles.py
 ```
+# Process of the code
+    - HOME - > VALIDATE - > PLAYS GAME -> GETS RESULT
+
+# Things Im too lazy to do right now
+    - add random birth dates
+    - count wins/losses
+    - CLI
   
