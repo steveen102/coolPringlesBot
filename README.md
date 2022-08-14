@@ -1,5 +1,7 @@
 # coolPringlesBot
 
+#DISCLAIMER I AM A BEGINNER CODER
+
 # Requirements
     - Python 
     - Capmonster API key
